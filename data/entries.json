@@ -1,0 +1,37 @@
+{
+  "categorieen": ["Restaurants", "Winkels", "Diensten", "Gezondheid"],
+  "entries": [
+    {
+      "id": "e001",
+      "naam": "Café De Hoek",
+      "categorie": "Restaurants",
+      "adres": "Marktstraat 12, Amsterdam",
+      "telefoon": "020-1234567",
+      "beschrijving": "Gezellig café met dagverse lunchgerechten."
+    },
+    {
+      "id": "e002",
+      "naam": "Boekhandel Pagina",
+      "categorie": "Winkels",
+      "adres": "Kerkplein 5, Utrecht",
+      "telefoon": "030-2345678",
+      "beschrijving": "Onafhankelijke boekhandel met ruim aanbod."
+    },
+    {
+      "id": "e003",
+      "naam": "Fysio Actief",
+      "categorie": "Gezondheid",
+      "adres": "Stationsweg 8, Rotterdam",
+      "telefoon": "010-3456789",
+      "beschrijving": "Fysiotherapiepraktijk voor sport- en arbeidsblessures."
+    },
+    {
+      "id": "e004",
+      "naam": "Loodgieter Bakker",
+      "categorie": "Diensten",
+      "adres": "Industrieweg 3, Den Haag",
+      "telefoon": "070-4567890",
+      "beschrijving": "24/7 loodgietersdienst voor particulieren en bedrijven."
+    }
+  ]
+}
